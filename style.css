@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat';   
+}
+.bg-gambar
+{
+    background-image: url('unduhan.jpg');
+}
+.bg-gambar1
+{
+    background-image: url('unduhan2.jpg');
+}
+.bg-gambar2
+{
+    background-image: url('unduhan3.jpg');
+}
+.bg-gambar3
+{
+    background-image: url('unduhan4.jpg');
+}
